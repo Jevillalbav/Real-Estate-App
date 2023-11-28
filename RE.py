@@ -122,6 +122,8 @@ fig.update_layout(
 fig.update_layout(width = 1500, height = 700)
 
 app = dash.Dash(__name__)
+server = app.server
+
 app.layout = html.Div([
     # Dropdown for selecting category
     dcc.Dropdown(
