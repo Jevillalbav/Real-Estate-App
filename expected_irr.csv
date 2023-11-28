@@ -1,0 +1,841 @@
+,date_forecast,lower,mean,upper,k,j,geo_slice
+0,2018-10-01,0.4187869235326551,0.47169564433001687,0.5241256505001803,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+1,2019-01-01,0.4166367155222044,0.4742422519192169,0.5216495299787864,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+2,2019-04-01,0.41863415770750545,0.47645080799571904,0.5228990452047448,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+3,2019-07-01,0.44498410251593246,0.5010887582447416,0.5453669700251473,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+4,2019-10-01,0.43876844640229207,0.4956583625759021,0.5397424266023554,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+5,2020-01-01,0.4431063209598767,0.500769863754313,0.5430662645633924,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+6,2020-04-01,0.46673669562849396,0.5246685217603484,0.5630748154538481,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+7,2020-07-01,0.4707790074232885,0.5296144181667781,0.5665375454664943,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+8,2020-10-01,0.448113314630856,0.5087965988832968,0.5465893408321749,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+9,2021-01-01,0.3872017650558832,0.452583372136242,0.49399111752947733,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+10,2021-04-01,0.31407795217038204,0.38628190192109835,0.4330442387599218,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+11,2021-07-01,0.28679212296355794,0.3619717175764181,0.41107109039892076,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+12,2021-10-01,0.25841052634263195,0.3371778456042067,0.3889022618146061,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+13,2022-01-01,0.21986444289614182,0.30414303162059,0.3597184748775504,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+14,2022-04-01,0.1731006217437654,0.2648517975307847,0.3252395792902154,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+15,2022-07-01,0.21026231282266417,0.2947752540926458,0.35214987530598374,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+16,2022-10-01,0.22405002413608566,0.3054072720864407,0.3622338933347693,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+17,2023-01-01,0.25663285700348015,0.3319900777353204,0.38762627297193175,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+18,2023-04-01,0.2809147523652007,0.35181041335231633,0.406991852738686,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+19,2023-07-01,0.27350186480265815,0.3444500698436055,0.40113979544947753,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+20,2023-10-01,0.25042719176708617,0.3241019241402079,0.38275949644140606,Chicago - IL - Western Kane County,Class C,Submarket - Chicago - IL - Western Kane County - Class C
+0,2018-10-01,0.23640971795195886,0.31966158682782475,0.3816763338885376,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+1,2019-01-01,0.25527852756798364,0.33819735375503046,0.3971710698835216,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+2,2019-04-01,0.25367899518893333,0.3423291368820711,0.39573035981739313,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+3,2019-07-01,0.26578372883913937,0.3543771021308588,0.40544545515224484,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+4,2019-10-01,0.21578755480873024,0.3114479240080992,0.36519147182929856,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+5,2020-01-01,0.23588808198057887,0.32602874276853866,0.38138853505599224,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+6,2020-04-01,0.24999722257739165,0.33916208978835116,0.3928152134819516,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+7,2020-07-01,0.23213208089169401,0.32307441164443507,0.3788641220446145,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+8,2020-10-01,0.19423188843640915,0.2888584852573799,0.35014049207712117,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+9,2021-01-01,0.13582413564759066,0.2382151993438404,0.3078411421324567,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+10,2021-04-01,0.0723030254279109,0.19069727196565878,0.26584699195767914,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+11,2021-07-01,-0.027495143616212858,0.12373571951645568,0.21234564540630552,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+12,2021-10-01,-0.08746219985589077,0.08933701855288034,0.185685465443296,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+13,2022-01-01,-0.04463582811783173,0.11084108902580803,0.2013374126897669,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+14,2022-04-01,-0.09946691702000832,0.07751329267086993,0.17166741219436177,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+15,2022-07-01,-0.06143947922299231,0.09899725029990636,0.18775315968704565,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+16,2022-10-01,-0.03637113577336282,0.10619649543913545,0.18950059326805713,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+17,2023-01-01,0.025344092726381717,0.1559659522776724,0.2323646250992153,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+18,2023-04-01,0.06656553903659224,0.18225064496540733,0.2598114892129262,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+19,2023-07-01,0.04883048159884584,0.1681385070177226,0.24740501314889474,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+20,2023-10-01,0.020788157444719735,0.14697400804716154,0.22857175624504844,Philadelphia - PA - Salem County,Class C,Submarket - Philadelphia - PA - Salem County - Class C
+0,2018-10-01,0.2672122063671327,0.3338327352543371,0.3914893211702688,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+1,2019-01-01,0.2632924530658758,0.33247486334746434,0.3892001831445644,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+2,2019-04-01,0.25666125932057393,0.32769496045910373,0.38439900543063277,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+3,2019-07-01,0.25936173559177234,0.3317092106343664,0.38739873665856495,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+4,2019-10-01,0.2443126837345988,0.31985312929957654,0.37596036713620884,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+5,2020-01-01,0.241763546669171,0.3186974946599763,0.3747293736274757,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+6,2020-04-01,0.2525671482113341,0.32932976569324435,0.3838186229628906,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+7,2020-07-01,0.22991306220086938,0.3108952856667362,0.3664432795487842,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+8,2020-10-01,0.18795242717248395,0.275662990477455,0.33476753286501326,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+9,2021-01-01,0.12156354665652547,0.2214113639561568,0.28712450931434685,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+10,2021-04-01,0.03370818709869017,0.15582799314108953,0.23109011832143622,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+11,2021-07-01,-0.040415264965152686,0.11007029508864874,0.19358917138123366,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+12,2021-10-01,-0.11863918785206862,0.06756126197418877,0.16041718130480342,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+13,2022-01-01,,-0.004734749341159472,0.10762434373674745,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+14,2022-04-01,-0.1978796594027542,-0.026583242615209612,0.0641752455545972,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+15,2022-07-01,-0.1691971021604941,-0.00608040512590724,0.08322034497662223,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+16,2022-10-01,-0.10424243266868227,0.015449285108289468,0.09141228155016479,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+17,2023-01-01,-0.08617016371320185,0.045699396310060925,0.12869682155161977,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+18,2023-04-01,-0.0658800237389634,0.07434869017880041,0.16218143993501366,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+19,2023-07-01,-0.06451264489622555,0.053028917347302196,0.13332567303574971,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+20,2023-10-01,-0.058541805460935126,0.04121516152559601,0.11324847872552501,Northern New Jersey - NJ - Pike County,Class C,Submarket - Northern New Jersey - NJ - Pike County - Class C
+0,2018-10-01,0.11320111665031884,0.16603480518964298,0.21874525672820333,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+1,2019-01-01,0.14025488552230914,0.19760795996303337,0.25362971913298593,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+2,2019-04-01,0.14050704094999844,0.20215413465681142,0.2558938752163522,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+3,2019-07-01,0.1965030969299637,0.2660569438859335,0.32528858103750236,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+4,2019-10-01,0.17504077892911174,0.2465052181170453,0.3042960252065394,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+5,2020-01-01,0.17430293911045736,0.2553254580307043,0.3166607030518669,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+6,2020-04-01,0.19867386457265845,0.2805893500276113,0.338497462675178,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+7,2020-07-01,0.1707335760569073,0.2575146027277877,0.3169143088785502,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+8,2020-10-01,0.13061223607255656,0.22780971335964617,0.2866180008481889,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+9,2021-01-01,0.051619387755949875,0.14280400647773717,0.1959600899677869,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+10,2021-04-01,-0.008405318752545132,0.07850879577753589,0.12721746519229193,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+11,2021-07-01,-0.06421923880164704,0.03119171134078247,0.08608208338341061,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+12,2021-10-01,-0.09659876801054856,0.0038037183771757466,0.06619375820233953,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+13,2022-01-01,-0.11098557214213167,-0.0151114831826068,0.046672900166132125,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+14,2022-04-01,-0.11482405328945189,-0.04266249114548304,0.010510222712286854,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+15,2022-07-01,-0.03937973546916307,0.047620294716509415,0.10996048855193008,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+16,2022-10-01,-0.011259244775738475,0.05940343367382317,0.1136631568531814,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+17,2023-01-01,0.0009356640618358725,0.08624079491798686,0.149360994589687,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+18,2023-04-01,0.021523943063280093,0.11471705356553885,0.18410161730566021,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+19,2023-07-01,0.030568215761203943,0.11634657559231809,0.1795195185449674,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+20,2023-10-01,0.023590894462873102,0.0944409231695853,0.14739070787825237,Atlanta - GA - Bartow County,Class C,Submarket - Atlanta - GA - Bartow County - Class C
+0,2018-10-01,0.28285490853423423,0.3726579565132364,0.45021319055621056,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+1,2019-01-01,0.26709695899796615,0.3629973663236763,0.43679301663113534,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+2,2019-04-01,0.2588898083539237,0.35953030576635614,0.4297380467822829,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+3,2019-07-01,0.269289502074997,0.37487274311206775,0.4374145027736327,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+4,2019-10-01,0.2616513498647126,0.3634851775487653,0.4315123045517635,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+5,2020-01-01,0.26014937707645824,0.37158037657266907,0.4300262664241523,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+6,2020-04-01,0.2772235043693161,0.3940787625170916,0.4431113419767396,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+7,2020-07-01,0.2653771124624251,0.38783896187582045,0.43365596090922787,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+8,2020-10-01,0.22475940575010012,0.3522655438707665,0.4015887283422155,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+9,2021-01-01,0.16685909351275452,0.3040767403686746,0.3590385617930374,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+10,2021-04-01,0.07921612864474303,0.23716530975525463,0.301047234594245,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+11,2021-07-01,0.014838958078164932,0.18969013089603548,0.2665690510602867,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+12,2021-10-01,-0.10673648679783143,0.11335873160779597,0.2118443683026645,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+13,2022-01-01,-0.21089358942285463,0.06762190878695162,0.181096715198793,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+14,2022-04-01,-0.166888678345669,0.02695376746110667,0.1276446277084733,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+15,2022-07-01,-0.14483370123325556,0.05789131506141931,0.16711654963711653,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+16,2022-10-01,-0.07601523526421317,0.05802707671193885,0.14478798737456144,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+17,2023-01-01,-0.06416836077874488,0.08511858816802231,0.18050855320516646,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+18,2023-04-01,-0.05436166094191097,0.11780882945627891,0.2289021914704159,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+19,2023-07-01,-0.03074344246113092,0.11020723525213039,0.207634821096774,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+20,2023-10-01,-0.014629845008893083,0.08716044069125983,0.1604909350646433,Dallas-Fort Worth - TX - Grapevine,Class C,Submarket - Dallas-Fort Worth - TX - Grapevine - Class C
+0,2018-10-01,0.02930479123386931,0.09977261438104401,0.15305338957317072,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+1,2019-01-01,0.02675481833475346,0.10810868425547038,0.16394872570459706,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+2,2019-04-01,0.03823960991594988,0.12871802922666298,0.1819556582876647,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+3,2019-07-01,0.0501678400661989,0.15701318647867413,0.21532927986372696,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+4,2019-10-01,0.03890460257965711,0.14434554929827503,0.20286744470701756,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+5,2020-01-01,0.03881450812263587,0.1686172932420571,0.23563676643569798,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+6,2020-04-01,0.05121273913307234,0.18238971447227947,0.24617763952129224,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+7,2020-07-01,0.02753529399859045,0.16491557654240618,0.23272191001860776,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+8,2020-10-01,-0.028610389033115635,0.12694756808387542,0.20117771878066848,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+9,2021-01-01,-0.14573621567681616,0.03726327171592403,0.12042670119850363,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+10,2021-04-01,-0.20419185721738853,-0.006492704822794293,0.0845854220128952,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+11,2021-07-01,-0.028239300845869786,0.12155025146379295,0.20355968069480124,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+12,2021-10-01,-0.11086799531928382,0.07325742148669212,0.16526981875247815,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+13,2022-01-01,-0.18402563015366147,0.03353341649439989,0.13973459822183476,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+14,2022-04-01,-0.12216171480670612,0.01916380736149237,0.10912501731111246,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+15,2022-07-01,-0.09235353951554293,0.042051430600797524,0.12781710439876415,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+16,2022-10-01,-0.04487611056355423,0.05943219013886081,0.13079636406581163,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+17,2023-01-01,-0.030910749353202704,0.07942479802315416,0.15377807220056328,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+18,2023-04-01,-0.001381438584353023,0.11404328828560284,0.19274760593529305,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+19,2023-07-01,-0.0013567195182546676,0.1011717106122878,0.1737376831999573,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+20,2023-10-01,-0.007696090326448135,0.08296909744619985,0.1495881855550807,New York - NY - Middletown/Goshen,Class C,Submarket - New York - NY - Middletown/Goshen - Class C
+0,2018-10-01,0.3506298741277667,0.44413561935651313,0.4962326619241213,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+1,2019-01-01,0.34600042440838696,0.4484753337429561,0.4921734731954923,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+2,2019-04-01,0.33927166302771994,0.4490279552259009,0.4855868604588256,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+3,2019-07-01,0.37182541665556834,0.4847109177892359,0.5137002340001657,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+4,2019-10-01,0.37221348143246824,0.48194750538383313,0.5142554054828818,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+5,2020-01-01,0.2991479922947109,0.4158554576220501,0.4518350362986694,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+6,2020-04-01,0.3047610910907561,0.4238949542082353,0.4560225819428776,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+7,2020-07-01,0.27692279639079254,0.396802062518121,0.4333641881127088,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+8,2020-10-01,0.23702224158110163,0.3602588856090059,0.4014549267189014,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+9,2021-01-01,0.17319851297017808,0.3029795438599976,0.3535524651557802,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+10,2021-04-01,0.09350226313338772,0.23389717216238237,0.2993673951074085,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+11,2021-07-01,0.019243263441761638,0.17717949868084526,0.256659528409682,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+12,2021-10-01,-0.06304308906584855,0.12120549229295019,0.2143796407531411,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+13,2022-01-01,-0.14079241769093953,0.07318598841962554,0.18269662886148552,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+14,2022-04-01,-0.14052878814305536,0.038360611156441626,0.14688920444766174,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+15,2022-07-01,-0.1219794569867062,0.04492593018564062,0.15381033849884318,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+16,2022-10-01,-0.06585852652125446,0.05326880919905541,0.14549285365537035,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+17,2023-01-01,-0.030444759092879803,0.09160817639698782,0.18777002047923474,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+18,2023-04-01,-0.046727160846867455,0.07236026483933977,0.16735501487031734,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+19,2023-07-01,-0.030144304560652313,0.0701433760612582,0.1550666137393253,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+20,2023-10-01,-0.02097093931426408,0.05660885969706042,0.12437055227717941,Phoenix - AZ - Southeast Valley,Class C,Submarket - Phoenix - AZ - Southeast Valley - Class C
+0,2018-10-01,0.12595086479843176,0.19969111063007206,0.26471140770865254,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+1,2019-01-01,0.12282985433776594,0.2024891835439937,0.2684458277063435,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+2,2019-04-01,0.12256895581031535,0.21013141704372518,0.2816210034889044,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+3,2019-07-01,0.1484101937060951,0.2489266778249215,0.3268756906994501,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+4,2019-10-01,0.12933528531128657,0.236981696639732,0.30863468353549717,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+5,2020-01-01,0.12090080087988708,0.2393189526638,0.3082682045583094,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+6,2020-04-01,0.13461054230854974,0.25562510768845503,0.3188426082486331,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+7,2020-07-01,0.12596562063710404,0.25360601297810326,0.31302653183928575,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+8,2020-10-01,0.10076147669336932,0.22997627148032085,0.2973122061552156,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+9,2021-01-01,0.032001652806703085,0.1773476484272296,0.2518582995183396,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+10,2021-04-01,-0.052511689859033206,0.08605217850773283,0.16112016935503815,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+11,2021-07-01,-0.12415266032276251,0.05156386808701652,0.14040378835952483,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+12,2021-10-01,-0.16432897946644764,0.0056984246747007195,0.0946686546156783,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+13,2022-01-01,-0.1559813041629894,-0.007579336643615542,0.07576802150852635,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+14,2022-04-01,-0.10577175020023788,-0.007244646849767222,0.05759064072793474,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+15,2022-07-01,-0.08891933174875255,0.00755367185186584,0.06937675253971931,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+16,2022-10-01,-0.06526414974261596,0.02092793953594807,0.07873057339249323,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+17,2023-01-01,-0.05556307882306022,0.03654308147075436,0.09938456183680211,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+18,2023-04-01,-0.05820744613366213,0.048217399972015906,0.11997035243219045,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+19,2023-07-01,-0.04454168765979727,0.04617827224041959,0.11438380136133586,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+20,2023-10-01,-0.040387738739644186,0.04209372431761227,0.10535364314728413,Houston - TX - East End Houston,Class C,Submarket - Houston - TX - East End Houston - Class C
+0,2018-10-01,0.1103515149632115,0.173152237396899,0.2288447895681518,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+1,2019-01-01,0.1236359537848839,0.19051006290894956,0.247193066367853,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+2,2019-04-01,0.1530508161624491,0.2253289789342312,0.2894089612176982,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+3,2019-07-01,0.17679199810111657,0.2578531555387753,0.32513679013094676,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+4,2019-10-01,0.19635226063111966,0.2792359058259719,0.3461097790794405,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+5,2020-01-01,0.213496086624531,0.30331217624981166,0.36522976474564994,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+6,2020-04-01,0.2187866550269466,0.3084230002711643,0.3684219113733842,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+7,2020-07-01,0.19323208126376445,0.2852063210062745,0.3484491913008938,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+8,2020-10-01,0.15393789741226716,0.2513176678526976,0.3182976360225269,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+9,2021-01-01,0.08063464270089171,0.176587731603717,0.2382361494128309,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+10,2021-04-01,0.012671485400691074,0.10164948176479882,0.16014229782948441,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+11,2021-07-01,-0.01882786243094836,0.0752751100406126,0.1348609699202501,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+12,2021-10-01,-0.03487882839405687,0.05478558639964892,0.11393691146161689,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+13,2022-01-01,-0.05351584432588852,0.03382723349616645,0.09280096369254687,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+14,2022-04-01,-0.049815963830277865,0.01856127382749473,0.06720944626620673,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+15,2022-07-01,-0.031130621773464706,0.038216790298476244,0.08723181935780966,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+16,2022-10-01,-0.008289924376966962,0.055811072829195174,0.10217344943485229,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+17,2023-01-01,-0.0012077140397541708,0.06698542729680357,0.11777275394654252,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+18,2023-04-01,0.008031716216307494,0.07824109775108723,0.13087023606419868,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+19,2023-07-01,0.013872754078415594,0.08074979763090795,0.13258027971363684,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+20,2023-10-01,0.010501482173040921,0.07284258349528794,0.12156047796781566,Washington - DC - Frederick County,Class C,Submarket - Washington - DC - Frederick County - Class C
+0,2018-10-01,0.1112326116144744,0.16677358008543308,0.21749720574160203,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+1,2019-01-01,0.11728022855535758,0.17735989539457586,0.23045337282227774,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+2,2019-04-01,0.12196286776445175,0.1836395031908169,0.2372467013919397,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+3,2019-07-01,0.13050112987701978,0.1956545811028827,0.25013713469274856,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+4,2019-10-01,0.1329163593051199,0.19721435376206542,0.25038038859378986,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+5,2020-01-01,0.14771382788574527,0.21630190944723227,0.2702474640884851,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+6,2020-04-01,0.17813649561034528,0.2563407437064473,0.3139043321422115,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+7,2020-07-01,0.1580789804339795,0.23692491694892226,0.2940148920070238,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+8,2020-10-01,0.11608902382976338,0.19102666331152518,0.24475082420323524,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+9,2021-01-01,0.06358236715764432,0.13297338853281504,0.18215364236067155,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+10,2021-04-01,0.03174093648480092,0.09898009071197689,0.145885803923268,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+11,2021-07-01,0.009614341477943045,0.07995267531344252,0.12918588564151867,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+12,2021-10-01,-0.013105111336992548,0.05505209767603736,0.1035778475115301,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+13,2022-01-01,-0.02204284498419673,0.03973760407765292,0.0848598728169685,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+14,2022-04-01,-0.02817587132512378,0.02794818832093182,0.07004938962271057,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+15,2022-07-01,-0.02313882746126794,0.03281326003951812,0.07504685068468664,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+16,2022-10-01,-0.012344157933899425,0.04061995531943863,0.08120791018615159,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+17,2023-01-01,0.0004886902061165266,0.055678969592435346,0.09826321854672337,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+18,2023-04-01,0.01194530377459846,0.06871718840273067,0.11302856032044328,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+19,2023-07-01,0.01033532621147848,0.06437744008818713,0.10713058364838624,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+20,2023-10-01,0.007570525033933073,0.05912581963717933,0.10035324201991447,Northern New Jersey - NJ,Class C,City - Northern New Jersey - NJ - Class C
+0,2018-10-01,0.1110341342011456,0.1661388034796698,0.21169993088910855,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+1,2019-01-01,0.11878050087256353,0.17993185528704836,0.22895334925012212,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+2,2019-04-01,0.11117485006105765,0.1758528987683825,0.22554083716361406,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+3,2019-07-01,0.12075773421247282,0.19157587533114806,0.2441707801498496,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+4,2019-10-01,0.11121513381071613,0.182709890574271,0.23457327815229578,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+5,2020-01-01,0.12016453767955637,0.19876453932671923,0.25366681167679994,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+6,2020-04-01,0.15090685332141107,0.24493643288822953,0.3054961819849078,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+7,2020-07-01,0.12716071175704458,0.22323126590696796,0.2854126984001757,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+8,2020-10-01,0.07991684690087797,0.17096496664100402,0.23099510500012288,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+9,2021-01-01,0.03273570567670259,0.11617106990299364,0.1725221135556232,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+10,2021-04-01,-0.014748799325686401,0.06564858019025555,0.12125959245390838,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+11,2021-07-01,-0.043978518541744394,0.041690886430825636,0.10221614505193188,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+12,2021-10-01,-0.07183137843827792,0.01009161591287544,0.06959102911456072,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+13,2022-01-01,-0.06947149931758045,0.0020981931310652957,0.05628199934429712,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+14,2022-04-01,-0.06844415157710304,-0.005291236825432866,0.04429060530921758,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+15,2022-07-01,-0.05494421978944197,0.007422817707628093,0.0559727166165922,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+16,2022-10-01,-0.03986450530695829,0.01820719039761931,0.06405654692807117,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+17,2023-01-01,-0.029633885001118077,0.03095409861682441,0.07851406548126727,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+18,2023-04-01,-0.026241678205410346,0.03595979230618429,0.0846632683790669,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+19,2023-07-01,-0.0227952463580523,0.0361313275987214,0.0827556088908803,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+20,2023-10-01,-0.023351924823911796,0.03257625062786951,0.07722894482791065,Philadelphia - PA,Class C,City - Philadelphia - PA - Class C
+0,2018-10-01,0.17863260781645374,0.2539748763196792,0.31397872144880945,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+1,2019-01-01,0.1741867320556607,0.2534452445840021,0.3131760047087262,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+2,2019-04-01,0.17303497428223524,0.25720072245133885,0.31703318887942644,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+3,2019-07-01,0.19377003245579583,0.2864530649325929,0.34923006807952506,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+4,2019-10-01,0.17511207642080118,0.2676445450569227,0.3285262591249789,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+5,2020-01-01,0.1830124619321425,0.2840709829751422,0.3474323798047556,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+6,2020-04-01,0.2086984323008798,0.31839008051728324,0.3808726113250722,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+7,2020-07-01,0.19237836699761002,0.30701258864696634,0.3681777117588374,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+8,2020-10-01,0.14287222235767283,0.2569504072874256,0.3173038873687004,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+9,2021-01-01,0.07785872346208245,0.18058436445414983,0.23807404504023388,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+10,2021-04-01,0.02024017520861321,0.1188218536780079,0.17755284257370052,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+11,2021-07-01,-0.02074445716685469,0.0855484494027905,0.15154646020875506,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+12,2021-10-01,-0.049634201520331045,0.05342869192651101,0.12086545437487484,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+13,2022-01-01,-0.07090073805541142,0.024774811734112667,0.09068012510665224,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+14,2022-04-01,-0.0641628919670929,0.012485906105612399,0.07035190591840568,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+15,2022-07-01,-0.05532850824594515,0.020202486579844248,0.07818970311279583,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+16,2022-10-01,-0.04094145850964259,0.02835016892907305,0.08313750857429758,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+17,2023-01-01,-0.03082930576208165,0.040477194558605545,0.09707400580470193,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+18,2023-04-01,-0.020749315089318987,0.05171179653935676,0.10955901196031692,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+19,2023-07-01,-0.014785279009322472,0.05342004602077344,0.1086213684536328,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+20,2023-10-01,-0.015881998800004293,0.048319542032529306,0.10074349500361524,Dallas-Fort Worth - TX,Class C,City - Dallas-Fort Worth - TX - Class C
+0,2018-10-01,0.007597274612501259,0.060797803160483666,0.10638895096561396,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+1,2019-01-01,0.014509765915651895,0.06812978254919111,0.11376009843446733,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+2,2019-04-01,0.016763438621394178,0.07056324487628451,0.1154534601160464,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+3,2019-07-01,0.01946529110327533,0.07306183553219658,0.11819433300951321,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+4,2019-10-01,0.023754087016730763,0.07549017338325781,0.11930102973255652,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+5,2020-01-01,0.027510153489291644,0.08064975767059201,0.1246503262256462,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+6,2020-04-01,0.03854112423367084,0.09424106494375084,0.1372906322006242,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+7,2020-07-01,0.04196678320910996,0.09527890157181762,0.13639872258228647,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+8,2020-10-01,0.04990158242211562,0.10142379701845039,0.14157983551328224,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+9,2021-01-01,0.03339773388783929,0.08270279208890052,0.1204186135151033,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+10,2021-04-01,0.018114642450147933,0.06594509758474909,0.10346877653443531,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+11,2021-07-01,0.010061743518990474,0.0579321785894682,0.09605120734995842,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+12,2021-10-01,0.006067767600820728,0.05233033093934236,0.090244740845012,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+13,2022-01-01,8.109014394563907e-05,0.04513816711767049,0.08335980784469799,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+14,2022-04-01,-0.0068454988807580275,0.03538781010559666,0.07277884581395977,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+15,2022-07-01,0.007181516836369584,0.04949792640092321,0.08646235811052705,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+16,2022-10-01,0.021541588327556704,0.06272958908210025,0.09832531051763227,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+17,2023-01-01,0.032812680911447956,0.07461235308527003,0.1112081474098654,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+18,2023-04-01,0.040296650855913496,0.08221246999308862,0.11944280336455404,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+19,2023-07-01,0.04322907008353116,0.08449478613910966,0.12051253637608972,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+20,2023-10-01,0.03278096832642863,0.07266126555224273,0.10766460418868151,East Bay - CA - Fremont/Newark ,Class C,Submarket - East Bay - CA - Fremont/Newark  - Class C
+0,2018-10-01,0.08920556525205803,0.15158095939433824,0.2012817617293925,Houston - TX,Class C,City - Houston - TX - Class C
+1,2019-01-01,0.09278692042935566,0.16222522045504584,0.21550458946541684,Houston - TX,Class C,City - Houston - TX - Class C
+2,2019-04-01,0.0826144599054548,0.15599771826451647,0.210128382100917,Houston - TX,Class C,City - Houston - TX - Class C
+3,2019-07-01,0.0925709272548969,0.17454331267863066,0.23371516711886064,Houston - TX,Class C,City - Houston - TX - Class C
+4,2019-10-01,0.08157754346268309,0.16347350249595238,0.22075849131269032,Houston - TX,Class C,City - Houston - TX - Class C
+5,2020-01-01,0.08403559958933293,0.17330881454282854,0.23299792893780924,Houston - TX,Class C,City - Houston - TX - Class C
+6,2020-04-01,0.10588671906054103,0.21209974211724303,0.2768592197720625,Houston - TX,Class C,City - Houston - TX - Class C
+7,2020-07-01,0.0899280537047753,0.19826933579350858,0.2620949077711907,Houston - TX,Class C,City - Houston - TX - Class C
+8,2020-10-01,0.05714411074465442,0.15929217907439197,0.2196581552853829,Houston - TX,Class C,City - Houston - TX - Class C
+9,2021-01-01,0.014313483463433752,0.10639561843851864,0.16275053840310627,Houston - TX,Class C,City - Houston - TX - Class C
+10,2021-04-01,-0.02849989573671574,0.060102510509769,0.1174403391568346,Houston - TX,Class C,City - Houston - TX - Class C
+11,2021-07-01,-0.0692627435486497,0.026173420300125372,0.08951177850072223,Houston - TX,Class C,City - Houston - TX - Class C
+12,2021-10-01,-0.08900355619877875,0.004023487343147725,0.06837596632459264,Houston - TX,Class C,City - Houston - TX - Class C
+13,2022-01-01,-0.0919726377056802,-0.005324344656939539,0.056849357650513355,Houston - TX,Class C,City - Houston - TX - Class C
+14,2022-04-01,-0.07433418686968274,-0.005494771185815539,0.047471152177263276,Houston - TX,Class C,City - Houston - TX - Class C
+15,2022-07-01,-0.06323920206298228,0.004721293552391925,0.05739019291832537,Houston - TX,Class C,City - Houston - TX - Class C
+16,2022-10-01,-0.046944375734925825,0.015875835276445205,0.06556550204757983,Houston - TX,Class C,City - Houston - TX - Class C
+17,2023-01-01,-0.03677496774576505,0.028140209373097802,0.07986916346487005,Houston - TX,Class C,City - Houston - TX - Class C
+18,2023-04-01,-0.027732682914227813,0.038308549599174846,0.09137147610684049,Houston - TX,Class C,City - Houston - TX - Class C
+19,2023-07-01,-0.02364186420112524,0.038674620528068804,0.08944087776311127,Houston - TX,Class C,City - Houston - TX - Class C
+20,2023-10-01,-0.023589340981205242,0.03535534526454498,0.08373576809354955,Houston - TX,Class C,City - Houston - TX - Class C
+0,2018-10-01,0.21479804393429736,0.28645934754471547,0.3393302558795015,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+1,2019-01-01,0.21371012113107746,0.28992185173585217,0.34353733920999385,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+2,2019-04-01,0.2110414595963761,0.29212989056038663,0.3451285140704947,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+3,2019-07-01,0.2272667324166333,0.31588226897563354,0.36939580398031624,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+4,2019-10-01,0.20233108974409753,0.2907290352698797,0.3436142915709748,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+5,2020-01-01,0.21099451876209852,0.30752312451910435,0.3619113885693741,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+6,2020-04-01,0.24619777875065152,0.3544169285541794,0.41022654253482016,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+7,2020-07-01,0.2182141653876024,0.3307018620887261,0.3881892331204564,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+8,2020-10-01,0.1507462376110451,0.25711138842001646,0.31402303519308306,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+9,2021-01-01,0.08350418368251789,0.1804400008797502,0.23626317616145354,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+10,2021-04-01,0.023577736570143948,0.11627010187053544,0.17394734042930393,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+11,2021-07-01,-0.019848734304877103,0.07787314654148325,0.14206068847048892,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+12,2021-10-01,-0.05429268228221984,0.03853100837892098,0.10254187475132182,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+13,2022-01-01,-0.0645486920139885,0.01652052031920892,0.07652067196568924,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+14,2022-04-01,-0.07557433137928415,-0.004895887988800363,0.05120039100142204,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+15,2022-07-01,-0.06758612337927405,0.001646043531277508,0.057668403215907604,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+16,2022-10-01,-0.053789949701470996,0.010064146990444334,0.0628053771545678,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+17,2023-01-01,-0.043255952158234745,0.022088613000937896,0.07608833511706647,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+18,2023-04-01,-0.03250941685418107,0.03334859317312855,0.08776432293351699,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+19,2023-07-01,-0.025990312505146718,0.036252224135006283,0.08805427213109485,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+20,2023-10-01,-0.026164048723633426,0.032920577373487525,0.08240799406543386,Atlanta - GA,Class C,City - Atlanta - GA - Class C
+0,2018-10-01,0.069527896503643,0.11653522033491437,0.15874656979580815,Chicago - IL,Class C,City - Chicago - IL - Class C
+1,2019-01-01,0.06565446524083263,0.11464229435484241,0.15743227858305264,Chicago - IL,Class C,City - Chicago - IL - Class C
+2,2019-04-01,0.06338356492377129,0.1142615728543912,0.15775339018666257,Chicago - IL,Class C,City - Chicago - IL - Class C
+3,2019-07-01,0.06849811599819411,0.12479779995221141,0.17223864616371243,Chicago - IL,Class C,City - Chicago - IL - Class C
+4,2019-10-01,0.059763592210074545,0.11610975003767376,0.16309692465636405,Chicago - IL,Class C,City - Chicago - IL - Class C
+5,2020-01-01,0.06268541241068948,0.12314511174747889,0.17151846951182215,Chicago - IL,Class C,City - Chicago - IL - Class C
+6,2020-04-01,0.07279292380806468,0.14094481689790372,0.1915364196783076,Chicago - IL,Class C,City - Chicago - IL - Class C
+7,2020-07-01,0.06664982423953525,0.1352387438728362,0.18517095861065158,Chicago - IL,Class C,City - Chicago - IL - Class C
+8,2020-10-01,0.04643248279978063,0.11243943078875263,0.16069752617985955,Chicago - IL,Class C,City - Chicago - IL - Class C
+9,2021-01-01,0.015236775348044684,0.07719279360688902,0.12231108624169162,Chicago - IL,Class C,City - Chicago - IL - Class C
+10,2021-04-01,-0.011570215476459755,0.04566271198602356,0.08840334122354676,Chicago - IL,Class C,City - Chicago - IL - Class C
+11,2021-07-01,-0.02687848092548406,0.031987498006250226,0.07605921623402634,Chicago - IL,Class C,City - Chicago - IL - Class C
+12,2021-10-01,-0.03817120443433919,0.018956519599237387,0.062252860274973454,Chicago - IL,Class C,City - Chicago - IL - Class C
+13,2022-01-01,-0.04782383732951723,0.007251235290327784,0.049771114668922145,Chicago - IL,Class C,City - Chicago - IL - Class C
+14,2022-04-01,-0.04922862689078766,0.0013087908900220047,0.041199053800337504,Chicago - IL,Class C,City - Chicago - IL - Class C
+15,2022-07-01,-0.038471432759950575,0.012069893348516159,0.051874661431358104,Chicago - IL,Class C,City - Chicago - IL - Class C
+16,2022-10-01,-0.027483075644750388,0.020669193874392366,0.0591784413081089,Chicago - IL,Class C,City - Chicago - IL - Class C
+17,2023-01-01,-0.02386582422726813,0.025514735971601032,0.06546611629657928,Chicago - IL,Class C,City - Chicago - IL - Class C
+18,2023-04-01,-0.01839619587354413,0.03193643682174718,0.07280689727631517,Chicago - IL,Class C,City - Chicago - IL - Class C
+19,2023-07-01,-0.016502885321797778,0.03196264470513066,0.07161664253428945,Chicago - IL,Class C,City - Chicago - IL - Class C
+20,2023-10-01,-0.01715123919655892,0.029439937456830156,0.06776652699172958,Chicago - IL,Class C,City - Chicago - IL - Class C
+0,2018-10-01,0.01640658719970034,0.06690351662966565,0.10946843672478224,East Bay - CA,Class C,City - East Bay - CA - Class C
+1,2019-01-01,0.019012159945534846,0.06955390053695898,0.11210694213383454,East Bay - CA,Class C,City - East Bay - CA - Class C
+2,2019-04-01,0.01917077878971374,0.06984948646482114,0.1123021571800662,East Bay - CA,Class C,City - East Bay - CA - Class C
+3,2019-07-01,0.020294928540228963,0.07167839010316523,0.1147118854603193,East Bay - CA,Class C,City - East Bay - CA - Class C
+4,2019-10-01,0.019873189881193465,0.07014755532235273,0.11265473413513916,East Bay - CA,Class C,City - East Bay - CA - Class C
+5,2020-01-01,0.01867256705830367,0.06992685727641734,0.11257056752828354,East Bay - CA,Class C,City - East Bay - CA - Class C
+6,2020-04-01,0.0232691557537148,0.07730639766115321,0.12043280939096568,East Bay - CA,Class C,City - East Bay - CA - Class C
+7,2020-07-01,0.023616640821153334,0.07676813051477938,0.11889922933249619,East Bay - CA,Class C,City - East Bay - CA - Class C
+8,2020-10-01,0.018580853747270032,0.06990277984678528,0.1108577143010987,East Bay - CA,Class C,City - East Bay - CA - Class C
+9,2021-01-01,0.004096693324383338,0.05312315983637661,0.0922743979568319,East Bay - CA,Class C,City - East Bay - CA - Class C
+10,2021-04-01,-0.010938396615775448,0.03659118562093622,0.07508123797653332,East Bay - CA,Class C,City - East Bay - CA - Class C
+11,2021-07-01,-0.021164184872225156,0.026568160092645954,0.06590750468547002,East Bay - CA,Class C,City - East Bay - CA - Class C
+12,2021-10-01,-0.02781865646224002,0.018535972241376264,0.05731573889580899,East Bay - CA,Class C,City - East Bay - CA - Class C
+13,2022-01-01,-0.031159704348759254,0.013926281937995721,0.052279467427104764,East Bay - CA,Class C,City - East Bay - CA - Class C
+14,2022-04-01,-0.030580600379188416,0.01203602426497885,0.049100939754564976,East Bay - CA,Class C,City - East Bay - CA - Class C
+15,2022-07-01,-0.020005861073861597,0.022529941714410695,0.05938301897021048,East Bay - CA,Class C,City - East Bay - CA - Class C
+16,2022-10-01,-0.0063641184276512774,0.035125822000393825,0.07089009374490951,East Bay - CA,Class C,City - East Bay - CA - Class C
+17,2023-01-01,0.004065090247634906,0.04626558107660328,0.08259660520009393,East Bay - CA,Class C,City - East Bay - CA - Class C
+18,2023-04-01,0.00950890435519991,0.0519544771307785,0.08859330323261294,East Bay - CA,Class C,City - East Bay - CA - Class C
+19,2023-07-01,0.011864281406456678,0.05345470263732799,0.08917411689028176,East Bay - CA,Class C,City - East Bay - CA - Class C
+20,2023-10-01,0.007711949245674976,0.04822291399822243,0.0831279729652179,East Bay - CA,Class C,City - East Bay - CA - Class C
+0,2018-10-01,0.20293528508009717,0.26740958306208307,0.31447644725401624,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+1,2019-01-01,0.19607356995711345,0.2622662225455119,0.30958734098826723,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+2,2019-04-01,0.18574275941169271,0.2537805126155428,0.300308849143458,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+3,2019-07-01,0.18559918649971552,0.2582525845953534,0.3066858237066743,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+4,2019-10-01,0.16172013987469458,0.23138570060544184,0.2784801835927473,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+5,2020-01-01,0.16325774353457856,0.23815717915236667,0.2869411509794506,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+6,2020-04-01,0.17448321734669392,0.2558830453549794,0.30611696474748773,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+7,2020-07-01,0.14719796093415294,0.22762213446557888,0.27840413510427386,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+8,2020-10-01,0.10493328538002733,0.18109255992234807,0.23132358262055308,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+9,2021-01-01,0.061732719759155286,0.13106769806274765,0.178861426847851,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+10,2021-04-01,0.018485656788366223,0.0851440590344823,0.1348974676087611,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+11,2021-07-01,-0.01639015873213867,0.05005870876846763,0.1022477143503695,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+12,2021-10-01,-0.041976167376245876,0.021705323508980356,0.07351081974902618,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+13,2022-01-01,-0.05601911479602628,0.005199717492395006,0.05598772727389267,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+14,2022-04-01,-0.06634784791595705,-0.010301390402948973,0.03728509431832361,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+15,2022-07-01,-0.05996394185316789,-0.004794427555677827,0.04226612068539448,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+16,2022-10-01,-0.0490043422137042,0.003872248755792951,0.04887379718824536,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+17,2023-01-01,-0.0418245947245377,0.01196576539701355,0.05788633863017201,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+18,2023-04-01,-0.033940796880691404,0.020230514624670848,0.06628384834799683,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+19,2023-07-01,-0.030239919533498583,0.022281024324969367,0.06664895658384729,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+20,2023-10-01,-0.03010113771322398,0.02097669168431615,0.06409504754276152,Phoenix - AZ,Class C,City - Phoenix - AZ - Class C
+0,2018-10-01,0.061817520323915964,0.10805569089015821,0.1488965150013477,Washington - DC,Class C,City - Washington - DC - Class C
+1,2019-01-01,0.05776377683832745,0.1060015046834415,0.14784904006548616,Washington - DC,Class C,City - Washington - DC - Class C
+2,2019-04-01,0.053093843044638156,0.1034248323814091,0.14636853935351857,Washington - DC,Class C,City - Washington - DC - Class C
+3,2019-07-01,0.055603356819328154,0.11154399424901418,0.15839682505678399,Washington - DC,Class C,City - Washington - DC - Class C
+4,2019-10-01,0.04636800468802016,0.09963233128313354,0.14531300899776034,Washington - DC,Class C,City - Washington - DC - Class C
+5,2020-01-01,0.03619355710055627,0.095771315895256,0.1445821736605446,Washington - DC,Class C,City - Washington - DC - Class C
+6,2020-04-01,0.044486743801317674,0.11160106799474945,0.1618207382328578,Washington - DC,Class C,City - Washington - DC - Class C
+7,2020-07-01,0.03788905876595483,0.10536189207678204,0.15424595893192206,Washington - DC,Class C,City - Washington - DC - Class C
+8,2020-10-01,0.01363515056726583,0.07740387382888114,0.1236754278181964,Washington - DC,Class C,City - Washington - DC - Class C
+9,2021-01-01,-0.011363572705819891,0.04553877313411614,0.0868196256259306,Washington - DC,Class C,City - Washington - DC - Class C
+10,2021-04-01,-0.03605198545929178,0.019976526415778073,0.0615753822456131,Washington - DC,Class C,City - Washington - DC - Class C
+11,2021-07-01,-0.054169337741717394,0.0038169704605917065,0.0482563095029489,Washington - DC,Class C,City - Washington - DC - Class C
+12,2021-10-01,-0.0672192812481529,-0.011209894217014016,0.033031140186130736,Washington - DC,Class C,City - Washington - DC - Class C
+13,2022-01-01,-0.07361642281883662,-0.01959676829663648,0.02350495777139927,Washington - DC,Class C,City - Washington - DC - Class C
+14,2022-04-01,-0.07154658863703733,-0.021864643797762873,0.018646583683783025,Washington - DC,Class C,City - Washington - DC - Class C
+15,2022-07-01,-0.05843190511155871,-0.008898641865942025,0.031144838810786002,Washington - DC,Class C,City - Washington - DC - Class C
+16,2022-10-01,-0.04323817338820457,0.0038559559159505596,0.041734739869400794,Washington - DC,Class C,City - Washington - DC - Class C
+17,2023-01-01,-0.03673239486740654,0.011778247605845227,0.05132670902293812,Washington - DC,Class C,City - Washington - DC - Class C
+18,2023-04-01,-0.030427856229296002,0.01915238882170378,0.05969144751262179,Washington - DC,Class C,City - Washington - DC - Class C
+19,2023-07-01,-0.026290624185586586,0.021490508273781295,0.060782765308479814,Washington - DC,Class C,City - Washington - DC - Class C
+20,2023-10-01,-0.025574296837651334,0.020419849852121974,0.058441779847275166,Washington - DC,Class C,City - Washington - DC - Class C
+0,2018-10-01,0.011718119411521677,0.05585379815450464,0.09466102892416184,New York - NY,Class C,City - New York - NY - Class C
+1,2019-01-01,0.005512689892996692,0.05144882025408859,0.09138170402837131,New York - NY,Class C,City - New York - NY - Class C
+2,2019-04-01,-0.0029085979191507683,0.04485384231328049,0.08573422746074111,New York - NY,Class C,City - New York - NY - Class C
+3,2019-07-01,-0.010484665426424788,0.040645366757639634,0.0836275717124575,New York - NY,Class C,City - New York - NY - Class C
+4,2019-10-01,-0.018556683923666384,0.03343049641218965,0.07671554417814597,New York - NY,Class C,City - New York - NY - Class C
+5,2020-01-01,-0.025232665595577686,0.02999663220419091,0.0748797632744651,New York - NY,Class C,City - New York - NY - Class C
+6,2020-04-01,-0.03398177724326179,0.03094968159498257,0.08089897783351252,New York - NY,Class C,City - New York - NY - Class C
+7,2020-07-01,-0.04258694143988706,0.023579181086873513,0.07332156401541257,New York - NY,Class C,City - New York - NY - Class C
+8,2020-10-01,-0.050032604245560774,0.011104091971212426,0.05738297177667451,New York - NY,Class C,City - New York - NY - Class C
+9,2021-01-01,-0.06506278240934948,-0.006862121450378567,0.037548500646672034,New York - NY,Class C,City - New York - NY - Class C
+10,2021-04-01,-0.08087136136219697,-0.023973181075000904,0.01936474381116704,New York - NY,Class C,City - New York - NY - Class C
+11,2021-07-01,-0.09654897717197031,-0.03741930913439906,0.0074494480527438345,New York - NY,Class C,City - New York - NY - Class C
+12,2021-10-01,-0.10363436208629628,-0.04547532974520618,-0.0009863760005860422,New York - NY,Class C,City - New York - NY - Class C
+13,2022-01-01,-0.10492956912190199,-0.04863318417062856,-0.005111028724087308,New York - NY,Class C,City - New York - NY - Class C
+14,2022-04-01,-0.09882969912196038,-0.046713673388043775,-0.005535715560617049,New York - NY,Class C,City - New York - NY - Class C
+15,2022-07-01,-0.09302030832857533,-0.040773441257075604,0.0007540306626432347,New York - NY,Class C,City - New York - NY - Class C
+16,2022-10-01,-0.08006060209177468,-0.02985502780281679,0.010505361392469048,New York - NY,Class C,City - New York - NY - Class C
+17,2023-01-01,-0.07099418542765767,-0.019192359146295135,0.0224149927009194,New York - NY,Class C,City - New York - NY - Class C
+18,2023-04-01,-0.06410456861831582,-0.011274293076969366,0.031415700547905656,New York - NY,Class C,City - New York - NY - Class C
+19,2023-07-01,-0.061428808999250184,-0.010353650662483505,0.03136363202538006,New York - NY,Class C,City - New York - NY - Class C
+20,2023-10-01,-0.06042519587059336,-0.011045665397093507,0.029591622479691715,New York - NY,Class C,City - New York - NY - Class C
+0,2018-10-01,0.4896314561092525,0.5614487735263871,0.6013788126321657,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+1,2019-01-01,0.48851811847932614,0.5617692845916009,0.6002615911272406,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+2,2019-04-01,0.49330243091022674,0.5655603016750825,0.603983832235103,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+3,2019-07-01,0.5105846096893467,0.5741131242026554,0.6185013519214433,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+4,2019-10-01,0.5035667162974098,0.5660226230202283,0.6123828173933656,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+5,2020-01-01,0.5106718317037449,0.571779421490735,0.6184154285448975,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+6,2020-04-01,0.5227357973377547,0.5920942540474903,0.6277851371825154,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+7,2020-07-01,0.49915219295281466,0.5665939277722571,0.6067168819146638,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+8,2020-10-01,0.46397324437758614,0.534237103275587,0.5761113471619104,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+9,2021-01-01,0.4024090856863676,0.48493455877465097,0.5238516434368761,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+10,2021-04-01,0.3159228725574956,0.42267507521018244,0.453382667836695,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+11,2021-07-01,0.30756431147872676,0.39927862581698936,0.44722321312627034,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+12,2021-10-01,0.26831920422063504,0.3702615914245868,0.41731408671033043,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+13,2022-01-01,0.23985970309069837,0.35006044045137275,0.3965335069922358,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+14,2022-04-01,0.23505626523107637,0.3347324691498017,0.3948204271614537,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+15,2022-07-01,0.24669397814423144,0.347560621407524,0.4022708691251107,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+16,2022-10-01,0.26382604822716393,0.3549248528926141,0.4155500408345969,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+17,2023-01-01,0.32197412396456304,0.39824723222646585,0.46095182431861015,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+18,2023-04-01,0.3684659487281996,0.43154338361824385,0.4987355635092985,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+19,2023-07-01,0.3395091813449256,0.41291015282365073,0.47527989363238743,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+20,2023-10-01,0.31329947076396003,0.39216626047510506,0.45444052751362896,Washington - DC - Jefferson County,Class B,Submarket - Washington - DC - Jefferson County - Class B
+0,2018-10-01,0.27588033013686286,0.36144661340196516,0.41516052609343235,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+1,2019-01-01,0.28845411103884744,0.3736717233697555,0.42630475543790336,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+2,2019-04-01,0.2894584253860273,0.3754910858408227,0.4278125474425172,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+3,2019-07-01,0.30146759367755194,0.3861863645953043,0.43777941624008365,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+4,2019-10-01,0.18029602540747836,0.28175694697616893,0.3417166441894899,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+5,2020-01-01,0.20790339704330707,0.3058441478136755,0.3635206678981939,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+6,2020-04-01,0.21603176279287561,0.31423825437210495,0.370844382114784,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+7,2020-07-01,0.19745714604466258,0.2982735449342975,0.3564500163335804,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+8,2020-10-01,0.14938233700727221,0.25911462946917596,0.3221918700438442,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+9,2021-01-01,0.07790843091911581,0.20413625861020557,0.2749827258180466,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+10,2021-04-01,-0.008803833017273721,0.14584937187554425,0.22630633077985673,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+11,2021-07-01,-0.06809391104597962,0.11362789391878647,0.20227901796966208,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+12,2021-10-01,-0.13326978631624276,0.0817946048814262,0.17935473365605437,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+13,2022-01-01,-0.05337747560660555,0.11516768800881705,0.20695711317736154,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+14,2022-04-01,-0.1214472105437786,0.07383540682234768,0.17453011720585443,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+15,2022-07-01,-0.07784713979858471,0.09503941653796777,0.19127548945380268,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+16,2022-10-01,-0.05821194760709458,0.10244368238807056,0.19612089172754166,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+17,2023-01-01,0.018784412553838337,0.15271460693678307,0.2378313002239234,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+18,2023-04-01,0.051853929105989405,0.17596697776266046,0.25823748528580226,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+19,2023-07-01,0.029527451944044714,0.15854759930661078,0.24348989422578993,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+20,2023-10-01,-0.003100455787445777,0.13435221817811382,0.22294009953982963,Philadelphia - PA - Salem County,Class B,Submarket - Philadelphia - PA - Salem County - Class B
+0,2018-10-01,0.24331998488511397,0.3105216850149586,0.3720562672480552,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+1,2019-01-01,0.24940223190253707,0.3179906890305626,0.3771542475050891,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+2,2019-04-01,0.2884706282973999,0.3564275384723423,0.4092464462105452,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+3,2019-07-01,0.2859025358597478,0.35745692701191634,0.4059070082384162,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+4,2019-10-01,0.25950113435547184,0.33500350055686656,0.384008760661561,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+5,2020-01-01,0.2694715159128436,0.34877399771743756,0.3932525620760805,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+6,2020-04-01,0.29176040118166435,0.3699307138049819,0.4098876067231816,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+7,2020-07-01,0.2731177290329656,0.3511405466880013,0.39416303487420934,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+8,2020-10-01,0.23096616119253022,0.3112149268752802,0.3592135747692986,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+9,2021-01-01,0.1744836783200694,0.26357488235180915,0.31389855021900215,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+10,2021-04-01,0.1194654103036703,0.21980973171424134,0.27231805400512243,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+11,2021-07-01,0.10696633873831596,0.2083813278642035,0.26391813862093083,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+12,2021-10-01,0.049472631667812905,0.16090364951777936,0.2243969155244223,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+13,2022-01-01,0.016300000977590656,0.13426059241777644,0.2026752617215799,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+14,2022-04-01,-0.005296620026716603,0.09230082544002016,0.15771003247729842,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+15,2022-07-01,-0.017872269180938316,0.07603971541628018,0.14259657155541827,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+16,2022-10-01,0.004421302714938236,0.08272434990811672,0.14190591573575806,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+17,2023-01-01,0.05436052249789802,0.14146960690060806,0.20976512773318,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+18,2023-04-01,0.0769441355483449,0.16739888879007037,0.2402624259025392,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+19,2023-07-01,0.06352261020474503,0.1432209241759077,0.20809869031551265,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+20,2023-10-01,0.04722211133338439,0.11748458140710505,0.17441461466190078,Chicago - IL - Porter County,Class B,Submarket - Chicago - IL - Porter County - Class B
+0,2018-10-01,0.2071211264003372,0.2976983817834309,0.36654644356631216,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+1,2019-01-01,0.2100553729630943,0.30108035723572324,0.3685471586285345,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+2,2019-04-01,0.20526171264268456,0.2973311537960115,0.3646710363274335,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+3,2019-07-01,0.218602309298503,0.3084605475714679,0.3753044171516089,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+4,2019-10-01,0.20803833964428664,0.3009175651928242,0.3668608889483653,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+5,2020-01-01,0.21355340182548432,0.3067114282200589,0.37120368661854863,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+6,2020-04-01,0.22818647711462958,0.32161512019314165,0.382750730890163,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+7,2020-07-01,0.2145301443990828,0.31078710627879924,0.3721791882605312,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+8,2020-10-01,0.17886491613973954,0.28181145211160397,0.3451689970126759,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+9,2021-01-01,0.10907976785549955,0.22676415422043572,0.29510328233344874,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+10,2021-04-01,0.011731633941522546,0.15504074441171567,0.23400776807420187,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+11,2021-07-01,-0.06730960702775046,0.10654230354185068,0.195393865086938,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+12,2021-10-01,-0.13007127532087925,0.0598507613526118,0.15378687813044833,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+13,2022-01-01,-0.1360837277112834,0.02637197596268992,0.1148985015844044,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+14,2022-04-01,-0.10908000980278865,0.005517161979057272,0.07922331439946317,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+15,2022-07-01,-0.0894994039260113,0.02445362612905888,0.10038229182850666,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+16,2022-10-01,-0.0445435938058264,0.043162376675107916,0.10817915237396147,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+17,2023-01-01,-0.03890828513707889,0.06524300564159513,0.13963115236609558,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+18,2023-04-01,-0.020737765218721282,0.08650494779303175,0.1627933486825075,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+19,2023-07-01,-0.010391689622801792,0.08395191465403129,0.15325393562378942,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+20,2023-10-01,-0.0049691464801487895,0.07288188756760694,0.1327770665059027,Dallas-Fort Worth - TX - Wise County,Class B,Submarket - Dallas-Fort Worth - TX - Wise County - Class B
+0,2018-10-01,0.26651427835991304,0.34982764681882106,0.40638590032479827,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+1,2019-01-01,0.2692485255667749,0.35277351120574396,0.4096001590878926,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+2,2019-04-01,0.26798481555130005,0.35372967783531784,0.40973585444067084,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+3,2019-07-01,0.27712949282065336,0.36132297315133854,0.41702421186344507,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+4,2019-10-01,0.26948847829464717,0.3534499487997722,0.4101860889464721,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+5,2020-01-01,0.26485304231577955,0.3497482031245258,0.4068195620740218,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+6,2020-04-01,0.27933272160726985,0.35730406655882896,0.41983960282214383,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+7,2020-07-01,0.2661330175219776,0.3455314627500987,0.4071897627016474,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+8,2020-10-01,0.2298740574167737,0.3146030191077607,0.3777287100270341,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+9,2021-01-01,0.17692898413340985,0.2695144892800927,0.3361410393185962,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+10,2021-04-01,0.12146462607726605,0.22063989361287617,0.2949454345276272,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+11,2021-07-01,0.09137700226739565,0.19686472142260025,0.2744206257069599,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+12,2021-10-01,0.05171781122526342,0.16574897917951836,0.2478290573183497,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+13,2022-01-01,-0.10445662941843936,-0.009535509276583087,0.05976645931107383,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+14,2022-04-01,-0.06990363157514856,-0.002125662266420192,0.04926754285081292,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+15,2022-07-01,-0.05623985500305373,0.010832217092691998,0.06202439346387978,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+16,2022-10-01,-0.0401370531129458,0.021558589807989526,0.06974568527766745,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+17,2023-01-01,-0.024892131386303973,0.03911822982654556,0.08914779473790713,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+18,2023-04-01,-0.012503027056533167,0.052733362774288306,0.10392986993508191,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+19,2023-07-01,-0.009559937424358123,0.051703898247415836,0.10085026385520868,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+20,2023-10-01,-0.010642188708694711,0.04701239049825623,0.09389875019266869,Atlanta - GA - Lamar County,Class B,Submarket - Atlanta - GA - Lamar County - Class B
+0,2018-10-01,0.10559728046900663,0.15710864449086182,0.21806095037369833,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+1,2019-01-01,0.118135212195289,0.172790424726041,0.23705003487392928,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+2,2019-04-01,0.12037562537969948,0.18495230032446996,0.24410667094342098,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+3,2019-07-01,0.13263760423350357,0.20563863810415994,0.2675663595104243,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+4,2019-10-01,0.1726502539588144,0.23515376600292148,0.3085354852003208,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+5,2020-01-01,0.1703007160494192,0.23392988194890507,0.3066644042691897,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+6,2020-04-01,0.18775176795340465,0.2593821764825437,0.3197555672776575,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+7,2020-07-01,0.17471578069414773,0.25063473069823283,0.30874404660892596,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+8,2020-10-01,0.07461960358778685,0.1445886244554302,0.17403314897942934,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+9,2021-01-01,0.04249095414890758,0.10567593771365247,0.1319826503880619,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+10,2021-04-01,0.02225465519523273,0.08863085078096011,0.1218573273828436,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+11,2021-07-01,0.0061842248281502865,0.07582187544508545,0.1124149811790891,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+12,2021-10-01,-0.007697760891728467,0.0613356316742204,0.1031272655892328,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+13,2022-01-01,-0.01522026465372417,0.04993218216004869,0.09631287317123438,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+14,2022-04-01,-0.0151647065423125,0.037939880012959115,0.08109296060684534,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+15,2022-07-01,0.002398989105534932,0.054568349507311265,0.10100222895778921,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+16,2022-10-01,0.01687751480510613,0.06414513322624216,0.10630335140083691,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+17,2023-01-01,0.03826663616893833,0.08650982718893374,0.1265198209459455,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+18,2023-04-01,0.052903123627117354,0.10141703247186995,0.14398091371407684,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+19,2023-07-01,0.0497476733256248,0.09486073485353796,0.13327628334288333,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+20,2023-10-01,0.045618965900164676,0.08796217765280057,0.12439360867300242,Northern New Jersey - NJ - Sussex County,Class B,Submarket - Northern New Jersey - NJ - Sussex County - Class B
+0,2018-10-01,-0.03978460901821057,0.03766156575705537,0.09752413950567473,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+1,2019-01-01,-0.059437344120094715,0.03340690625453324,0.10251783526769853,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+2,2019-04-01,-0.06590609978401418,0.03425060694916904,0.10696647124982306,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+3,2019-07-01,-0.0816002764997138,0.03460898958020242,0.11442151332013584,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+4,2019-10-01,-0.09068064595101566,0.027305100720452558,0.10708309639261993,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+5,2020-01-01,-0.1085479235415665,0.03214283391746009,0.12006358854419497,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+6,2020-04-01,-0.14666636781690234,0.05300026756062959,0.155155092451442,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+7,2020-07-01,-0.1424647240553183,0.05008406234501006,0.14841099249885947,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+8,2020-10-01,-0.14966566628786304,0.025624671850986713,0.11972921010260906,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+9,2021-01-01,-0.1537427250572646,-0.013683929199990508,0.06964222196606418,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+10,2021-04-01,-0.16391982579915865,-0.03694491161298019,0.04202146786358485,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+11,2021-07-01,-0.19788983229960455,-0.05349501398843892,0.030999731201341474,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+12,2021-10-01,-0.19499187164420873,-0.0626198926051158,0.017787296329232705,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+13,2022-01-01,-0.1732419731696193,-0.05886645365614662,0.01513193990888606,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+14,2022-04-01,-0.11806802517369686,-0.03655888167038257,0.022949508065793767,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+15,2022-07-01,-0.10421745811650351,-0.0238316920163284,0.03518526652130505,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+16,2022-10-01,-0.08108157809530858,-0.008316496507877136,0.046984862506490144,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+17,2023-01-01,-0.06165599772654562,0.014593662993602763,0.07249421349756391,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+18,2023-04-01,-0.04449791839224593,0.033732831783182204,0.09336571584905973,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+19,2023-07-01,-0.03418428996298406,0.03887118682131918,0.09577703376510116,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+20,2023-10-01,-0.032001254256950884,0.03628831134346289,0.09034862874611016,New York - NY - East Village,Class B,Submarket - New York - NY - East Village - Class B
+0,2018-10-01,0.2047394415636572,0.30328536271738704,0.3426420342467762,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+1,2019-01-01,0.19699915403471735,0.3125864982497766,0.3463169185708397,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+2,2019-04-01,0.19757704888409466,0.3187879674915304,0.35292377574629175,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+3,2019-07-01,0.22040593859978985,0.36395215640711465,0.39376740515186115,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+4,2019-10-01,0.20395713411754923,0.3438906671122892,0.3715706803187362,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+5,2020-01-01,0.1654524416812302,0.31134972063883803,0.3411556397687172,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+6,2020-04-01,0.18400868297753514,0.3350948677477572,0.3664363077151631,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+7,2020-07-01,0.14061314914084777,0.2907357057688409,0.33497474079199474,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+8,2020-10-01,0.08955392585691935,0.24676549699883088,0.29380562649275244,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+9,2021-01-01,0.013998417534152319,0.13998994148844623,0.19592877211178727,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+10,2021-04-01,-0.0421167995207542,0.07297928302617573,0.13037527184680942,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+11,2021-07-01,-0.09498208985404333,0.017493506207498344,0.09635888480899268,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+12,2021-10-01,-0.121487715844111,-0.012054504099948238,0.06632918607564053,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+13,2022-01-01,-0.11225512381455871,-0.030961837696933836,0.04480240877260799,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+14,2022-04-01,-0.10373844876022886,-0.03522393417619818,0.03084170285329857,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+15,2022-07-01,-0.0948677294226038,-0.03757436530827074,0.036640609867146345,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+16,2022-10-01,-0.07715320398198022,-0.023690004128859354,0.04657397513679351,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+17,2023-01-01,-0.060912568461651384,-0.013655107132827693,0.05876362337145302,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+18,2023-04-01,-0.05803896167485356,-0.010167648775732174,0.0615992138641559,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+19,2023-07-01,-0.03799596367482583,0.0017189401070061283,0.05343515404662469,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+20,2023-10-01,-0.03870591376035293,0.0002981931328998044,0.05138497012698773,Phoenix - AZ - Southeast Valley,Class B,Submarket - Phoenix - AZ - Southeast Valley - Class B
+0,2018-10-01,0.030672884661165023,0.0771251172404328,0.11636630767628442,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+1,2019-01-01,0.025745863083457943,0.07664837631368604,0.11565117125549618,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+2,2019-04-01,0.028073616131483403,0.08156599378251861,0.12266068908870609,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+3,2019-07-01,0.03139873701465756,0.08794522143248362,0.1305350268012131,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+4,2019-10-01,0.028114953219076977,0.08387756872716778,0.1274126325089211,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+5,2020-01-01,0.03118720034269784,0.0973073243823499,0.14046637747020196,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+6,2020-04-01,0.04423623184118064,0.1158483827206882,0.15726696337427115,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+7,2020-07-01,0.03150560301696448,0.10340034024647848,0.14587694202459822,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+8,2020-10-01,0.022452611536852185,0.08926716598689599,0.12744309199437787,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+9,2021-01-01,0.0005053343035152924,0.06759412176617396,0.10720093080119852,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+10,2021-04-01,-0.02565907879038709,0.03667019223649959,0.07741584314192718,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+11,2021-07-01,-0.055639852613148966,0.013688267170611779,0.06466360855231668,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+12,2021-10-01,-0.06133896450228693,0.0006283146534578066,0.04805703554452889,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+13,2022-01-01,-0.07567020873830532,-0.014623368487646116,0.03452183752583449,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+14,2022-04-01,-0.07007007752079375,-0.016082431780170103,0.029694981246733088,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+15,2022-07-01,-0.05362143463967406,-0.001489278605508848,0.04200460313201515,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+16,2022-10-01,-0.0318955421215672,0.017348299034553705,0.05786753932935684,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+17,2023-01-01,-0.0230147265912789,0.028007047934501816,0.07201341994286126,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+18,2023-04-01,-0.011746877206892936,0.03984377597194544,0.08415202026912727,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+19,2023-07-01,-0.007063680403246009,0.04188906195160058,0.08258980192450105,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+20,2023-10-01,-0.0071863284211631795,0.03973327326957721,0.07927038543380793,Houston - TX - The Woodlands,Class B,Submarket - Houston - TX - The Woodlands - Class B
+0,2018-10-01,0.0021160906806974022,0.04972035521490348,0.09006274390654112,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+1,2019-01-01,0.004611535404936085,0.05301977565028948,0.09313585305204164,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+2,2019-04-01,0.003668007875621493,0.05303341803811379,0.0933677797723591,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+3,2019-07-01,0.006758137353027216,0.05591273930799456,0.09559482480014236,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+4,2019-10-01,0.007565481926726347,0.0557038337492215,0.09527565726836573,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+5,2020-01-01,0.006244031016860108,0.056330170867957774,0.09612255496548738,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+6,2020-04-01,0.0066372234059588475,0.0602899237374841,0.10043925057490455,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+7,2020-07-01,0.015743941887969903,0.06771070584654093,0.10629810310843935,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+8,2020-10-01,0.008911871147208705,0.05908758716822815,0.09806908513747858,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+9,2021-01-01,-0.0007201933037249697,0.048008177225523196,0.08649852265089941,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+10,2021-04-01,-0.020534208850131797,0.027099015470826604,0.06505040037295085,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+11,2021-07-01,-0.023891127942657575,0.024287290583865806,0.06300028259812973,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+12,2021-10-01,-0.029389177702907276,0.017102789241270067,0.055602292919769924,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+13,2022-01-01,-0.03663742622989197,0.008640093406250715,0.04758629715106055,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+14,2022-04-01,-0.03528297272779779,0.007856183953166562,0.046154740309406916,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+15,2022-07-01,-0.025163554156560797,0.01796691599710254,0.0559825681297248,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+16,2022-10-01,-0.008585457913670824,0.033366262442112715,0.06955872040402777,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+17,2023-01-01,0.0014339723583272068,0.04407925389922407,0.08083850621419364,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+18,2023-04-01,0.008423497925303058,0.05148891892220808,0.08908832704573832,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+19,2023-07-01,0.010542704311222284,0.05278207620666753,0.08951638670611173,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+20,2023-10-01,0.000811478230686502,0.041696351947220434,0.07716263232901888,East Bay - CA - Dublin/Pleasanton/Livermore,Class B,Submarket - East Bay - CA - Dublin/Pleasanton/Livermore - Class B
+0,2018-10-01,0.060734811172925784,0.1067797040201417,0.1457073454486466,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+1,2019-01-01,0.06420722036333015,0.1122502822238407,0.15227194451051518,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+2,2019-04-01,0.05437116732757996,0.10440992992706555,0.14493437359504346,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+3,2019-07-01,0.05557217696771288,0.10879121062674968,0.15050362366265957,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+4,2019-10-01,0.04894566950336321,0.10224440856327921,0.14391532836735976,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+5,2020-01-01,0.049217004639860784,0.1086694467998599,0.152838159057739,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+6,2020-04-01,0.05648017975523323,0.12349668533815872,0.16942530457478977,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+7,2020-07-01,0.042323881280956765,0.1099840083539203,0.15622036159289654,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+8,2020-10-01,0.025149513266508272,0.09019054902057566,0.13538269496188904,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+9,2021-01-01,0.0029955727512360752,0.06215508357727084,0.10468939007054434,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+10,2021-04-01,-0.02648716892645553,0.03182204610529027,0.07474105161021427,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+11,2021-07-01,-0.04797721526180421,0.012032367097970953,0.05842242416991095,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+12,2021-10-01,-0.0671863801227216,-0.009640827542360952,0.03582911768317065,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+13,2022-01-01,-0.07300269859386443,-0.01735747729428261,0.02729123885733431,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+14,2022-04-01,-0.06900881312760065,-0.017501253816328277,0.024542914986050324,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+15,2022-07-01,-0.05868129874617978,-0.007837245906071488,0.03402741342845994,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+16,2022-10-01,-0.04446259866421676,0.0038194902201085235,0.043550996521365404,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+17,2023-01-01,-0.03450399272008253,0.015457191308430929,0.05599693498244718,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+18,2023-04-01,-0.0319369707856052,0.019199026728102364,0.060842369278237385,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+19,2023-07-01,-0.027358620624905128,0.021573758365505125,0.06145730707387087,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+20,2023-10-01,-0.027291690137126623,0.019819698317762313,0.05844061492858588,Philadelphia - PA,Class B,City - Philadelphia - PA - Class B
+0,2018-10-01,0.05620047857509447,0.09827403929395007,0.13652476971460636,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+1,2019-01-01,0.05087075959266785,0.09481464116975191,0.13371276798033271,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+2,2019-04-01,0.04299779667062387,0.08912819353610457,0.1286618057857727,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+3,2019-07-01,0.039623638160791064,0.08812043705779304,0.1269152158058724,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+4,2019-10-01,0.04343552357090963,0.09186420686272134,0.13105020978477566,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+5,2020-01-01,0.041647236551746625,0.09300833140682108,0.1327091829400957,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+6,2020-04-01,0.040734901458427286,0.10043973130831119,0.14367790583989026,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+7,2020-07-01,0.03553621182999134,0.09499338410547731,0.13748840985070498,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+8,2020-10-01,0.02020399062972711,0.07729074454088236,0.11820037435681563,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+9,2021-01-01,-0.004904030985812824,0.04671269577234427,0.08425449888824055,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+10,2021-04-01,-0.020311863657340723,0.03018039738011069,0.0682962465288508,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+11,2021-07-01,-0.038065958858225946,0.013805093922632627,0.05396544248592883,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+12,2021-10-01,-0.048170015064939675,0.0022534152810882446,0.04258394052916925,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+13,2022-01-01,-0.05666889194373037,-0.00810655989242548,0.031649914958011616,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+14,2022-04-01,-0.05652032868234047,-0.01203209258369986,0.026364970811033617,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+15,2022-07-01,-0.05109155475182159,-0.006872270955331383,0.031670060228897734,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+16,2022-10-01,-0.03849441656944563,0.003723767968143221,0.04000275393632258,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+17,2023-01-01,-0.027146684329208526,0.01622205043694458,0.05383319131348796,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+18,2023-04-01,-0.0175726062395567,0.02635172718472245,0.06394306162294705,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+19,2023-07-01,-0.016553893201695424,0.025860328129373444,0.062371960391107484,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+20,2023-10-01,-0.017301720056922876,0.023717095824362655,0.059218546307206354,Northern New Jersey - NJ,Class B,City - Northern New Jersey - NJ - Class B
+0,2018-10-01,0.10149657777271437,0.15930778137197343,0.20438474129465667,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+1,2019-01-01,0.09770107562888031,0.15728898498786759,0.20260334303866356,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+2,2019-04-01,0.09460407792502612,0.15700347921073066,0.20211290490514044,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+3,2019-07-01,0.10249197973520818,0.17155505379671698,0.2200650176257637,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+4,2019-10-01,0.09214023646186642,0.16025905861942213,0.20780881545626495,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+5,2020-01-01,0.09042335229529952,0.1623968318841953,0.21036229020586483,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+6,2020-04-01,0.10135884459913003,0.1823339205215111,0.23108870344319654,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+7,2020-07-01,0.08918794013539788,0.17010683173965435,0.21817236778158322,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+8,2020-10-01,0.06330570945049496,0.13991965476856105,0.1868318170453278,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+9,2021-01-01,0.030265750570658945,0.10215530373409765,0.14769871526693068,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+10,2021-04-01,-0.005073839625707954,0.061974507252394506,0.10825431789349338,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+11,2021-07-01,-0.04063063878114148,0.03232468049748527,0.08657671298920522,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+12,2021-10-01,-0.05251059930429891,0.013617509146084616,0.06599784757852678,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+13,2022-01-01,-0.06455218126675377,-0.0014892375151115411,0.049903659389732624,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+14,2022-04-01,-0.0660952113332175,-0.009058224748862198,0.03992156935983249,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+15,2022-07-01,-0.054544369715402885,0.0010954809234382523,0.048924025082937694,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+16,2022-10-01,-0.03904713499306145,0.013232659349207365,0.05797274251716433,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+17,2023-01-01,-0.02993819332710479,0.02362547968143902,0.06934887594850192,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+18,2023-04-01,-0.0218572654460637,0.03226545975254602,0.07831378970056702,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+19,2023-07-01,-0.016123189450769848,0.03568271101629872,0.0794773227448422,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+20,2023-10-01,-0.016157156191533018,0.03366105053310231,0.07578243226631765,Dallas-Fort Worth - TX,Class B,City - Dallas-Fort Worth - TX - Class B
+0,2018-10-01,0.05074198429095822,0.10231673937497221,0.143161924750135,Houston - TX,Class B,City - Houston - TX - Class B
+1,2019-01-01,0.05087446830589015,0.10437627657558268,0.14608454972945473,Houston - TX,Class B,City - Houston - TX - Class B
+2,2019-04-01,0.04423006011048858,0.1001278618120447,0.14244302184280078,Houston - TX,Class B,City - Houston - TX - Class B
+3,2019-07-01,0.04497990979468458,0.10441821511129956,0.149221246002057,Houston - TX,Class B,City - Houston - TX - Class B
+4,2019-10-01,0.03883260760743057,0.09775575112813639,0.14245799023541372,Houston - TX,Class B,City - Houston - TX - Class B
+5,2020-01-01,0.037614516848326174,0.10366371081469472,0.15065653565327208,Houston - TX,Class B,City - Houston - TX - Class B
+6,2020-04-01,0.04159456605526368,0.11610674121065334,0.16560574328985278,Houston - TX,Class B,City - Houston - TX - Class B
+7,2020-07-01,0.030499215608968067,0.10499792513067274,0.15362391539996323,Houston - TX,Class B,City - Houston - TX - Class B
+8,2020-10-01,0.014694729094151704,0.08541840184573757,0.13234940738895373,Houston - TX,Class B,City - Houston - TX - Class B
+9,2021-01-01,-0.010166170364409588,0.05708789755522825,0.10265044036028215,Houston - TX,Class B,City - Houston - TX - Class B
+10,2021-04-01,-0.03592019933237145,0.0265785855001357,0.07313430105106566,Houston - TX,Class B,City - Houston - TX - Class B
+11,2021-07-01,-0.0628826601898328,0.0017124593079616002,0.0524102622653857,Houston - TX,Class B,City - Houston - TX - Class B
+12,2021-10-01,-0.07239795438070296,-0.010267463573103375,0.03979116879208644,Houston - TX,Class B,City - Houston - TX - Class B
+13,2022-01-01,-0.07617734250000852,-0.016549273198730008,0.031346471161131984,Houston - TX,Class B,City - Houston - TX - Class B
+14,2022-04-01,-0.07158093497341267,-0.01807830622153861,0.026721556454238682,Houston - TX,Class B,City - Houston - TX - Class B
+15,2022-07-01,-0.059904504185730456,-0.0071900554290510454,0.03712874568834912,Houston - TX,Class B,City - Houston - TX - Class B
+16,2022-10-01,-0.044514088337515134,0.005326002336528246,0.04709619404660459,Houston - TX,Class B,City - Houston - TX - Class B
+17,2023-01-01,-0.0365139198941723,0.015054678562008261,0.058698778345841696,Houston - TX,Class B,City - Houston - TX - Class B
+18,2023-04-01,-0.02818807945179902,0.023784103673792245,0.06719591551984716,Houston - TX,Class B,City - Houston - TX - Class B
+19,2023-07-01,-0.023559017320517794,0.02624971766582407,0.06767788793777196,Houston - TX,Class B,City - Houston - TX - Class B
+20,2023-10-01,-0.023741550240686027,0.024189490898963717,0.06419351448626776,Houston - TX,Class B,City - Houston - TX - Class B
+0,2018-10-01,0.005379000838395376,0.05896734109817725,0.10341889042138397,East Bay - CA,Class B,City - East Bay - CA - Class B
+1,2019-01-01,0.013432059669807206,0.06603569534746212,0.11008354582259683,East Bay - CA,Class B,City - East Bay - CA - Class B
+2,2019-04-01,0.019816585524526475,0.07154937105666748,0.11472965215738995,East Bay - CA,Class B,City - East Bay - CA - Class B
+3,2019-07-01,0.024771893352465657,0.07598527836797886,0.11910308679404635,East Bay - CA,Class B,City - East Bay - CA - Class B
+4,2019-10-01,0.026323369056064694,0.07596086749546394,0.11875731633225595,East Bay - CA,Class B,City - East Bay - CA - Class B
+5,2020-01-01,0.02574760196629522,0.07597482176712744,0.11789854649920595,East Bay - CA,Class B,City - East Bay - CA - Class B
+6,2020-04-01,0.031233656016044664,0.0835135053662992,0.1247583977576765,East Bay - CA,Class B,City - East Bay - CA - Class B
+7,2020-07-01,0.0323976008130018,0.08347816102431738,0.12344937624060282,East Bay - CA,Class B,City - East Bay - CA - Class B
+8,2020-10-01,0.031516885386607685,0.08067880003751449,0.12011578387133381,East Bay - CA,Class B,City - East Bay - CA - Class B
+9,2021-01-01,0.019547457736515117,0.06689081770411143,0.10461475871192838,East Bay - CA,Class B,City - East Bay - CA - Class B
+10,2021-04-01,0.006851751395446026,0.05293768074454874,0.0906210488883683,East Bay - CA,Class B,City - East Bay - CA - Class B
+11,2021-07-01,0.0005177943881273794,0.046316401747059865,0.08541556329949351,East Bay - CA,Class B,City - East Bay - CA - Class B
+12,2021-10-01,-0.006857077920692678,0.03722368201641757,0.07602240322533182,East Bay - CA,Class B,City - East Bay - CA - Class B
+13,2022-01-01,-0.009089813407131886,0.034020479982964646,0.07245300991587489,East Bay - CA,Class B,City - East Bay - CA - Class B
+14,2022-04-01,-0.007049698858129894,0.034109027808092884,0.0709592850881382,East Bay - CA,Class B,City - East Bay - CA - Class B
+15,2022-07-01,0.0037669179590997803,0.0446344205108089,0.08064350487131455,East Bay - CA,Class B,City - East Bay - CA - Class B
+16,2022-10-01,0.016836046535751104,0.05681292008668315,0.09118869089648785,East Bay - CA,Class B,City - East Bay - CA - Class B
+17,2023-01-01,0.027565430605019703,0.06812422265840734,0.10323635136155995,East Bay - CA,Class B,City - East Bay - CA - Class B
+18,2023-04-01,0.035664176273210835,0.07649835195590748,0.11223886491649582,East Bay - CA,Class B,City - East Bay - CA - Class B
+19,2023-07-01,0.03823433222233197,0.07830832423633405,0.11315444983810297,East Bay - CA,Class B,City - East Bay - CA - Class B
+20,2023-10-01,0.028722050221091644,0.06766313477058516,0.1014439096355011,East Bay - CA,Class B,City - East Bay - CA - Class B
+0,2018-10-01,0.03819576449878603,0.08033433665626943,0.11909559148212745,Chicago - IL,Class B,City - Chicago - IL - Class B
+1,2019-01-01,0.032560615092055434,0.07638472411496111,0.11557134809916447,Chicago - IL,Class B,City - Chicago - IL - Class B
+2,2019-04-01,0.03060309565713437,0.07653558479555178,0.11589759020698143,Chicago - IL,Class B,City - Chicago - IL - Class B
+3,2019-07-01,0.0322695061217555,0.08029205532955608,0.12133554174504457,Chicago - IL,Class B,City - Chicago - IL - Class B
+4,2019-10-01,0.025414671683694712,0.0733211385252237,0.11364179143725495,Chicago - IL,Class B,City - Chicago - IL - Class B
+5,2020-01-01,0.026234089171314645,0.07721657904694657,0.11780464674809465,Chicago - IL,Class B,City - Chicago - IL - Class B
+6,2020-04-01,0.02811132922909687,0.08673919218875059,0.12811441621260533,Chicago - IL,Class B,City - Chicago - IL - Class B
+7,2020-07-01,0.024043991414294696,0.0818514171426763,0.12158740478651686,Chicago - IL,Class B,City - Chicago - IL - Class B
+8,2020-10-01,0.015365899049692988,0.06918376313428665,0.10730708756326868,Chicago - IL,Class B,City - Chicago - IL - Class B
+9,2021-01-01,-0.0042087942349846585,0.04769861929654007,0.08418430259787746,Chicago - IL,Class B,City - Chicago - IL - Class B
+10,2021-04-01,-0.027307294372664548,0.023961511490287357,0.06136398298451229,Chicago - IL,Class B,City - Chicago - IL - Class B
+11,2021-07-01,-0.03690857122447866,0.01576959270515288,0.05536907144422698,Chicago - IL,Class B,City - Chicago - IL - Class B
+12,2021-10-01,-0.04568010714548909,0.005307663684969599,0.04479175404953373,Chicago - IL,Class B,City - Chicago - IL - Class B
+13,2022-01-01,-0.05310221646826008,-0.003436652647903049,0.035563189934277206,Chicago - IL,Class B,City - Chicago - IL - Class B
+14,2022-04-01,-0.05261211457958559,-0.0062322996272954345,0.031602261676664245,Chicago - IL,Class B,City - Chicago - IL - Class B
+15,2022-07-01,-0.04247321811511662,0.0037449922445347283,0.04174308275155081,Chicago - IL,Class B,City - Chicago - IL - Class B
+16,2022-10-01,-0.03000247650736587,0.014128020432869981,0.05089412270752547,Chicago - IL,Class B,City - Chicago - IL - Class B
+17,2023-01-01,-0.027674454193893916,0.017401401149323537,0.055999909781498936,Chicago - IL,Class B,City - Chicago - IL - Class B
+18,2023-04-01,-0.01962907128127278,0.026156701604254984,0.06617792601618433,Chicago - IL,Class B,City - Chicago - IL - Class B
+19,2023-07-01,-0.01906767264312781,0.02509555733086133,0.0632839745918099,Chicago - IL,Class B,City - Chicago - IL - Class B
+20,2023-10-01,-0.01898435083498662,0.023616059567111547,0.06031124910724128,Chicago - IL,Class B,City - Chicago - IL - Class B
+0,2018-10-01,0.12047185507669367,0.17857155323569063,0.21999490547275768,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+1,2019-01-01,0.11735180957757652,0.17692544343222938,0.21924855477195337,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+2,2019-04-01,0.11184036037359002,0.1743646214063681,0.21543406149140365,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+3,2019-07-01,0.11295397243062655,0.17890957843627953,0.2201815628175936,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+4,2019-10-01,0.10225543114643143,0.16706175193081108,0.20783743575494618,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+5,2020-01-01,0.10275697698650443,0.1727170852386153,0.2145297176733314,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+6,2020-04-01,0.11059716510137396,0.18805950382706338,0.23011074333196957,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+7,2020-07-01,0.09244104547876253,0.16997493935769348,0.21355133787554648,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+8,2020-10-01,0.06618415165334612,0.1395440081575381,0.18397832027827032,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+9,2021-01-01,0.03371041446812506,0.10289825511944883,0.1482228911656034,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+10,2021-04-01,-0.004137481265986009,0.060898065736701756,0.10916687859015428,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+11,2021-07-01,-0.038095933765398216,0.03197322509999645,0.08860410974767596,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+12,2021-10-01,-0.05052837159678991,0.0119728342702774,0.06458644071261888,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+13,2022-01-01,-0.058898944801394015,0.00016073139570660366,0.05029064534436212,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+14,2022-04-01,-0.06409981704041268,-0.010707928184659377,0.03698183960443502,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+15,2022-07-01,-0.05395584192631553,-0.002183968614409393,0.04442416795657289,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+16,2022-10-01,-0.040739873553409134,0.008190627658658967,0.05191893712941864,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+17,2023-01-01,-0.03077413899128889,0.019215219310527276,0.063513562252278,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+18,2023-04-01,-0.021079163401971468,0.02920507749926493,0.07335782008074054,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+19,2023-07-01,-0.0159737357735652,0.03221311597041532,0.074071064471813,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+20,2023-10-01,-0.016110310563621666,0.030477662719154752,0.07090992363014625,Atlanta - GA,Class B,City - Atlanta - GA - Class B
+0,2018-10-01,0.1508039750578385,0.20761098841836612,0.24890822552242775,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+1,2019-01-01,0.14194224277949674,0.20005263235990034,0.24196735279660375,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+2,2019-04-01,0.13375277633345006,0.19323997368030432,0.23441658074705085,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+3,2019-07-01,0.1265298740816192,0.18753529506847744,0.22930888385851134,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+4,2019-10-01,0.11204934542929235,0.17232729497309274,0.2144661542842916,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+5,2020-01-01,0.10584343763390858,0.16804494259637548,0.21027480684802047,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+6,2020-04-01,0.1109688340300019,0.17870223998881918,0.2223773572061709,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+7,2020-07-01,0.09166395902613078,0.15879400593010073,0.2029681520565867,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+8,2020-10-01,0.06012634321287358,0.12224794538074835,0.16581003864856947,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+9,2021-01-01,0.03209084335854229,0.09158981179042458,0.13547599875010796,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+10,2021-04-01,-0.0014830113492149133,0.056241733605899125,0.10255657337088109,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+11,2021-07-01,-0.031101445034581454,0.026535821031401507,0.07558928004265919,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+12,2021-10-01,-0.05170730279008995,0.003363870571892802,0.05125975082744527,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+13,2022-01-01,-0.060433575357007774,-0.007344148717737808,0.0394962799603904,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+14,2022-04-01,-0.06906048776874252,-0.019817586429539236,0.02429804062031815,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+15,2022-07-01,-0.06199841953593144,-0.013465923313989436,0.029451895088981273,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+16,2022-10-01,-0.05170958395596603,-0.004808122418833771,0.036226188540068316,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+17,2023-01-01,-0.04467958218686874,0.002824212823932859,0.0443570509091753,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+18,2023-04-01,-0.03750640034478714,0.010280107096520386,0.05176973371461302,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+19,2023-07-01,-0.03377185011915995,0.01299480944192588,0.05337974434182535,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+20,2023-10-01,-0.03347212920716858,0.012292912934375178,0.051650429141362864,Phoenix - AZ,Class B,City - Phoenix - AZ - Class B
+0,2018-10-01,-0.006139999828964626,0.04116537697641509,0.08287870031246292,New York - NY,Class B,City - New York - NY - Class B
+1,2019-01-01,-0.012164271718064334,0.03709720204985145,0.07970103265908035,New York - NY,Class B,City - New York - NY - Class B
+2,2019-04-01,-0.019455532618157245,0.031936846912811845,0.07582034979257135,New York - NY,Class B,City - New York - NY - Class B
+3,2019-07-01,-0.027063682911387055,0.02771901315024361,0.07400161452201459,New York - NY,Class B,City - New York - NY - Class B
+4,2019-10-01,-0.03240583209943071,0.022898719995797956,0.0689919038129041,New York - NY,Class B,City - New York - NY - Class B
+5,2020-01-01,-0.0358605550585569,0.023096628159105625,0.07037068567372073,New York - NY,Class B,City - New York - NY - Class B
+6,2020-04-01,-0.044533370650869375,0.02515771874626327,0.07680584056996564,New York - NY,Class B,City - New York - NY - Class B
+7,2020-07-01,-0.049056051072420837,0.02097096271514154,0.07085624224768838,New York - NY,Class B,City - New York - NY - Class B
+8,2020-10-01,-0.05489373718465651,0.009645984176346323,0.05602490028951501,New York - NY,Class B,City - New York - NY - Class B
+9,2021-01-01,-0.06986248886983937,-0.007940855870594787,0.03729009895418267,New York - NY,Class B,City - New York - NY - Class B
+10,2021-04-01,-0.0851851159285697,-0.024199489109457684,0.02052362815801434,New York - NY,Class B,City - New York - NY - Class B
+11,2021-07-01,-0.1013795868220927,-0.03774047094189137,0.009428814334350166,New York - NY,Class B,City - New York - NY - Class B
+12,2021-10-01,-0.10719120214226441,-0.044505065701362256,0.002685957356858726,New York - NY,Class B,City - New York - NY - Class B
+13,2022-01-01,-0.10735438608096881,-0.046764327357084245,-0.0006005426639357214,New York - NY,Class B,City - New York - NY - Class B
+14,2022-04-01,-0.09799521592130589,-0.04205879388525402,0.0016992404790985294,New York - NY,Class B,City - New York - NY - Class B
+15,2022-07-01,-0.09084735020799872,-0.03505306395637353,0.008909178969123577,New York - NY,Class B,City - New York - NY - Class B
+16,2022-10-01,-0.07212596908951896,-0.018670174005894657,0.023854067644090815,New York - NY,Class B,City - New York - NY - Class B
+17,2023-01-01,-0.06104689695871646,-0.005738231492955381,0.03813671404502528,New York - NY,Class B,City - New York - NY - Class B
+18,2023-04-01,-0.053838647658947636,0.00265094078416217,0.047660559382972645,New York - NY,Class B,City - New York - NY - Class B
+19,2023-07-01,-0.05063650411544296,0.0036461012822845973,0.04721897729648039,New York - NY,Class B,City - New York - NY - Class B
+20,2023-10-01,-0.04914219787257068,0.003195242857927161,0.04545245992055702,New York - NY,Class B,City - New York - NY - Class B
+0,2018-10-01,0.026554030234422932,0.06506693043763545,0.1008785547732951,Washington - DC,Class B,City - Washington - DC - Class B
+1,2019-01-01,0.02430165216394875,0.06433398386491773,0.10125225332839949,Washington - DC,Class B,City - Washington - DC - Class B
+2,2019-04-01,0.0207977003189197,0.0627273222658471,0.09994429470177613,Washington - DC,Class B,City - Washington - DC - Class B
+3,2019-07-01,0.022828153759452796,0.06635119301663162,0.10493286705179106,Washington - DC,Class B,City - Washington - DC - Class B
+4,2019-10-01,0.01869129614369025,0.06190447740813565,0.10024105942458683,Washington - DC,Class B,City - Washington - DC - Class B
+5,2020-01-01,0.008597144090651376,0.05414908132628482,0.09269526278660178,Washington - DC,Class B,City - Washington - DC - Class B
+6,2020-04-01,0.013847154218374014,0.06383966010152209,0.10126476231818993,Washington - DC,Class B,City - Washington - DC - Class B
+7,2020-07-01,0.01389845324113792,0.0635842659285315,0.09967247646623467,Washington - DC,Class B,City - Washington - DC - Class B
+8,2020-10-01,0.0011082279590548527,0.048872865199240056,0.08372067210288958,Washington - DC,Class B,City - Washington - DC - Class B
+9,2021-01-01,-0.017487543895458035,0.02886137012826162,0.06256183016728478,Washington - DC,Class B,City - Washington - DC - Class B
+10,2021-04-01,-0.038210663313051896,0.00799223980461039,0.04270859624933143,Washington - DC,Class B,City - Washington - DC - Class B
+11,2021-07-01,-0.050601449596689996,-0.003552215195008923,0.03356942589133616,Washington - DC,Class B,City - Washington - DC - Class B
+12,2021-10-01,-0.06054240174306591,-0.015027794772869973,0.022223930657323754,Washington - DC,Class B,City - Washington - DC - Class B
+13,2022-01-01,-0.06506461099656813,-0.020463119493898563,0.01628985217000234,Washington - DC,Class B,City - Washington - DC - Class B
+14,2022-04-01,-0.06458208603560955,-0.022436093488012232,0.013387101354948472,Washington - DC,Class B,City - Washington - DC - Class B
+15,2022-07-01,-0.05191936246798512,-0.00992146638908431,0.025182430750456675,Washington - DC,Class B,City - Washington - DC - Class B
+16,2022-10-01,-0.037458265540683655,0.0030390996136675508,0.03622516396532349,Washington - DC,Class B,City - Washington - DC - Class B
+17,2023-01-01,-0.03122037470143879,0.010311746676534561,0.044617095724350575,Washington - DC,Class B,City - Washington - DC - Class B
+18,2023-04-01,-0.02647543924844964,0.015682851539857046,0.051212259582326336,Washington - DC,Class B,City - Washington - DC - Class B
+19,2023-07-01,-0.023066447448664262,0.017896064442621595,0.05228909789868852,Washington - DC,Class B,City - Washington - DC - Class B
+20,2023-10-01,-0.02227528140598911,0.017489211449830844,0.05099678555690956,Washington - DC,Class B,City - Washington - DC - Class B
